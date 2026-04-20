@@ -6,8 +6,8 @@
 |---------|------------|
 | **Nama** | Dzaky Haady |
 | **NRP** | 5024241076 |
-| **Mata Kuliah** | Pemrograman Berorientasi Objek |
-| **Assignment** | Programming Assignment 3 |
+| **Mata Kuliah** | Pemrograman Lanjut |
+| **Assignment** | Programming Assignment 4 |
 | **Topik** | Simple STL - Pendeteksi Tipe Segitiga |
 
 ---
